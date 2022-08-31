@@ -1,2 +1,1 @@
-
-clear
+shell basics command
